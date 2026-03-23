@@ -27,7 +27,7 @@ A fully functional calculator with a frosted-glass (glassmorphism) design and re
 
 ## 🎬 Demo
 
-![Demo](screenshot.gif)
+![Demo](https://github.com/professoralbay/glassmorphic-calculator/blob/main/Animation%20(1).gif)
 
 
 ## 🛠️ Tech Stack
