@@ -20,6 +20,16 @@ A fully functional calculator with a frosted-glass (glassmorphism) design and re
 
 ---
 
+## 🔴 Live Demo
+
+**[👉 View Live Demo](https://professoralbay.github.io/404-page/)**
+
+
+## 🎬 Demo
+
+![Demo](screenshot.gif)
+
+
 ## 🛠️ Tech Stack
 
 | Technology | Usage |
