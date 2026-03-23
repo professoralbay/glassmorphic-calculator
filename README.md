@@ -22,7 +22,7 @@ A fully functional calculator with a frosted-glass (glassmorphism) design and re
 
 ## 🔴 Live Demo
 
-**[👉 View Live Demo](https://professoralbay.github.io/404-page/)**
+**[👉 View Live Demo](https://github.com/professoralbay/glassmorphic-calculator-page/)**
 
 
 ## 🎬 Demo
